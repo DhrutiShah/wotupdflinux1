@@ -1,0 +1,17 @@
+{
+  "name": "application-name",
+  "version": "2.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server"
+  },
+  "license": "Apache",
+  "engines": {
+    "node": "~0.10.0 || ~6.2.0"
+
+  },
+  "dependencies": {
+    "puppeteer": "^1.2.0"
+  }
+}
+
